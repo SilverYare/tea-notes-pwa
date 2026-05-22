@@ -11,40 +11,24 @@
   "lang": "ru-RU",
   "icons": [
     {
-      "src": "icons/favicon-16x16.png",
-      "sizes": "16x16",
+      "src": "icons/LargeTile.scale-100.png",
+      "sizes": "100x100",
       "type": "image/png"
     },
     {
-      "src": "icons/favicon-32x32.png",
-      "sizes": "32x32",
+      "src": "icons/LargeTile.scale-200.png",
+      "sizes": "200x200",
       "type": "image/png"
     },
     {
-      "src": "icons/favicon-48x48.png",
+      "src": "icons/LargeTile.scale-400.png",
+      "sizes": "400x400",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Square44x44Logo.altform-lightunplated_targetsize-48.png",
       "sizes": "48x48",
       "type": "image/png"
-    },
-    {
-      "src": "icons/favicon-64x64.png",
-      "sizes": "64x64",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/favicon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/favicon-256x256.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/favicon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
     }
   ]
 }
